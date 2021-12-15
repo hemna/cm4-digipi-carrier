@@ -1,3 +1,9 @@
 (sym_lib_table
-  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/sgmustadio/Documents/GitHub/rpi-cm4-carrier-template/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/usb/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "my_components")(type "KiCad")(uri "/Users/i530566/devel/mine/hamradio/kicad/others/my_kicad_library/library/my_components.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_ERJ3EKF2000V")(type "Legacy")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/resistors/ul_ERJ3EKF2000V/ul_ERJ3EKF2000V.lib")(options "")(descr ""))
+  (lib (name "SMBJ5.0A-TR")(type "Legacy")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/usb/SMBJ5.0A-TR/SMBJ5.0A-TR.lib")(options "")(descr ""))
+  (lib (name "ul_RHU002N06FRAT106")(type "Legacy")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/other/ul_RHU002N06FRAT106/ul_RHU002N06FRAT106.lib")(options "")(descr ""))
+  (lib (name "ul_SS-90000-003")(type "Legacy")(uri "/Users/i530566/devel/mine/hamradio/kicad/mine/cm4-digipi/hardware/libraries/other/ul_SS-90000-003/ul_SS-90000-003.lib")(options "")(descr ""))
 )
